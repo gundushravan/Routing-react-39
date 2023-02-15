@@ -1,0 +1,20 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+h1 {
+  color: #6d396b;
+}
+p {
+  color: #555555;
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
